@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INET4031 PHP Crude CRUD App (MariaDB/MySQL DB Version)
 
 ## Demonstrates a basic Dynamic HTML Application using PHP
@@ -31,3 +32,8 @@ Look in the "apiclients" directory for examples of very simple Python program us
 ## AJAX
 
 The "ajax" pages demonstrate how to do real-time updates to a web page using Asynchronous JavaScript and XML. This is an older technology, but is a great place to start to learn how to create dynamic web pages that update content area real-time as a JavaScript client sends queries to backend server code.
+=======
+# Example LAMP Stack Application
+# PHP Crude CRUD App
+INET4031 System Admin Sample Dynamic Web Application Code
+>>>>>>> 4f10c07beb2d3ef264476998a7d0548d7f2267b5
